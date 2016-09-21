@@ -1,0 +1,9 @@
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.pdb

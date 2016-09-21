@@ -1,0 +1,6 @@
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\RectangleCost\RectangleCost\bin\Debug\RectangleCost.exe.config
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\RectangleCost\RectangleCost\obj\Debug\RectangleCost.csprojResolveAssemblyReference.cache
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\RectangleCost\RectangleCost\bin\Debug\RectangleCost.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\RectangleCost\RectangleCost\bin\Debug\RectangleCost.pdb
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\RectangleCost\RectangleCost\obj\Debug\RectangleCost.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\RectangleCost\RectangleCost\obj\Debug\RectangleCost.pdb

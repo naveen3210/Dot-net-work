@@ -1,0 +1,6 @@
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\practice\practice\bin\Debug\practice.exe.config
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\practice\practice\bin\Debug\practice.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\practice\practice\bin\Debug\practice.pdb
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\practice\practice\obj\Debug\practice.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\practice\practice\obj\Debug\practice.pdb

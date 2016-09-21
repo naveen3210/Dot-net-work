@@ -1,0 +1,5 @@
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.pdb
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.pdb

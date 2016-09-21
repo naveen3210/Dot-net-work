@@ -1,0 +1,6 @@
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.csprojResolveAssemblyReference.cache
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb

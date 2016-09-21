@@ -1,0 +1,2 @@
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\Rectangle\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache

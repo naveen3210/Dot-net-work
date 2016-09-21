@@ -1,0 +1,6 @@
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\SampleStudentData\SampleStudentData\bin\Debug\SampleStudentData.exe.config
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\SampleStudentData\SampleStudentData\bin\Debug\SampleStudentData.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\SampleStudentData\SampleStudentData\bin\Debug\SampleStudentData.pdb
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\SampleStudentData\SampleStudentData\obj\Debug\SampleStudentData.csprojResolveAssemblyReference.cache
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\SampleStudentData\SampleStudentData\obj\Debug\SampleStudentData.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\SampleStudentData\SampleStudentData\obj\Debug\SampleStudentData.pdb

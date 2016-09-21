@@ -1,0 +1,6 @@
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\Day3\CallByValueCallByReference\CallByValueCallByReference\bin\Debug\CallByValueCallByReference.exe.config
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\Day3\CallByValueCallByReference\CallByValueCallByReference\bin\Debug\CallByValueCallByReference.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\Day3\CallByValueCallByReference\CallByValueCallByReference\bin\Debug\CallByValueCallByReference.pdb
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\Day3\CallByValueCallByReference\CallByValueCallByReference\obj\Debug\CallByValueCallByReference.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\Day3\CallByValueCallByReference\CallByValueCallByReference\obj\Debug\CallByValueCallByReference.pdb
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\Day3\CallByValueCallByReference\CallByValueCallByReference\obj\Debug\CallByValueCallByReference.csprojResolveAssemblyReference.cache

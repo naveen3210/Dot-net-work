@@ -1,0 +1,6 @@
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\QueueExample\QueueExample\bin\Debug\QueueExample.exe.config
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\QueueExample\QueueExample\obj\Debug\QueueExample.csprojResolveAssemblyReference.cache
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\QueueExample\QueueExample\bin\Debug\QueueExample.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\QueueExample\QueueExample\bin\Debug\QueueExample.pdb
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\QueueExample\QueueExample\obj\Debug\QueueExample.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\QueueExample\QueueExample\obj\Debug\QueueExample.pdb

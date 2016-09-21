@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClock", "MyClock\MyClock.csproj", "{45FE9AD8-954A-45C4-AF96-39E62624D302}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MyClockSetup", "MyClockSetup\MyClockSetup.vdproj", "{B22406B6-7E9B-4580-B004-21D3558CB151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45FE9AD8-954A-45C4-AF96-39E62624D302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FE9AD8-954A-45C4-AF96-39E62624D302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FE9AD8-954A-45C4-AF96-39E62624D302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FE9AD8-954A-45C4-AF96-39E62624D302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22406B6-7E9B-4580-B004-21D3558CB151}.Debug|Any CPU.ActiveCfg = Debug
+		{B22406B6-7E9B-4580-B004-21D3558CB151}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\SwapeExample\SwapeExample\bin\Debug\SwapeExample.exe.config
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\SwapeExample\SwapeExample\bin\Debug\SwapeExample.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\SwapeExample\SwapeExample\bin\Debug\SwapeExample.pdb
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\SwapeExample\SwapeExample\obj\Debug\SwapeExample.csprojResolveAssemblyReference.cache
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\SwapeExample\SwapeExample\obj\Debug\SwapeExample.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\SwapeExample\SwapeExample\obj\Debug\SwapeExample.pdb

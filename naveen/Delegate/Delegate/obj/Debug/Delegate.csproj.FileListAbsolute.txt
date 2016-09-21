@@ -1,0 +1,2 @@
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\Delegate\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\Delegate\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache

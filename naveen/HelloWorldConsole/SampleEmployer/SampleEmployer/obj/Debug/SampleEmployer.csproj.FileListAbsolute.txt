@@ -1,0 +1,5 @@
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\SampleEmployer\SampleEmployer\bin\Debug\SampleEmployer.exe.config
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\SampleEmployer\SampleEmployer\bin\Debug\SampleEmployer.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\SampleEmployer\SampleEmployer\bin\Debug\SampleEmployer.pdb
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\SampleEmployer\SampleEmployer\obj\Debug\SampleEmployer.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\HelloWorldConsole\SampleEmployer\SampleEmployer\obj\Debug\SampleEmployer.pdb

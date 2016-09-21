@@ -1,0 +1,6 @@
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\ExamplePractice\ExamplePractice\bin\Debug\ExamplePractice.exe.config
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\ExamplePractice\ExamplePractice\bin\Debug\ExamplePractice.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\ExamplePractice\ExamplePractice\bin\Debug\ExamplePractice.pdb
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\ExamplePractice\ExamplePractice\obj\Debug\ExamplePractice.csprojResolveAssemblyReference.cache
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\ExamplePractice\ExamplePractice\obj\Debug\ExamplePractice.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\ExamplePractice\ExamplePractice\obj\Debug\ExamplePractice.pdb

@@ -1,0 +1,9 @@
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\MyCalulator\MyCalulator\bin\Debug\MyCalulator.exe.config
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\MyCalulator\MyCalulator\bin\Debug\MyCalulator.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\MyCalulator\MyCalulator\bin\Debug\MyCalulator.pdb
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\MyCalulator\MyCalulator\obj\Debug\MyCalulator.csprojResolveAssemblyReference.cache
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\MyCalulator\MyCalulator\obj\Debug\MyCalulator.Form1.resources
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\MyCalulator\MyCalulator\obj\Debug\MyCalulator.Properties.Resources.resources
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\MyCalulator\MyCalulator\obj\Debug\MyCalulator.csproj.GenerateResource.Cache
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\MyCalulator\MyCalulator\obj\Debug\MyCalulator.exe
+C:\Users\Naveen Reddy Vangala\Documents\Visual Studio 2015\Projects\naveen\MyCalulator\MyCalulator\obj\Debug\MyCalulator.pdb

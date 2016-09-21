@@ -1,0 +1,10 @@
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\CodeFirstDataAnnotations\CodeFirstDataAnnotations\bin\Debug\CodeFirstDataAnnotations.exe.config
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\CodeFirstDataAnnotations\CodeFirstDataAnnotations\bin\Debug\CodeFirstDataAnnotations.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\CodeFirstDataAnnotations\CodeFirstDataAnnotations\bin\Debug\CodeFirstDataAnnotations.pdb
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\CodeFirstDataAnnotations\CodeFirstDataAnnotations\bin\Debug\EntityFramework.dll
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\CodeFirstDataAnnotations\CodeFirstDataAnnotations\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\CodeFirstDataAnnotations\CodeFirstDataAnnotations\bin\Debug\EntityFramework.xml
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\CodeFirstDataAnnotations\CodeFirstDataAnnotations\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\CodeFirstDataAnnotations\CodeFirstDataAnnotations\obj\Debug\CodeFirstDataAnnotations.csprojResolveAssemblyReference.cache
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\CodeFirstDataAnnotations\CodeFirstDataAnnotations\obj\Debug\CodeFirstDataAnnotations.exe
+c:\users\naveen reddy vangala\documents\visual studio 2015\Projects\CodeFirstDataAnnotations\CodeFirstDataAnnotations\obj\Debug\CodeFirstDataAnnotations.pdb

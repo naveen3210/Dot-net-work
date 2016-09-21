@@ -1,0 +1,12 @@
+﻿body
+{
+    background-color :black;
+    background-image :url(http://feelgrafix.com/data/images/images-9.jpg);
+   
+}
+.header
+{
+    align-content:center;
+    text-align :center;
+    color:darkblue;
+}
