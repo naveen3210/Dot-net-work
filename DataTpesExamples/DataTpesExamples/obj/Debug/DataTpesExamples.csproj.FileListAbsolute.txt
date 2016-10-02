@@ -1,0 +1,6 @@
+C:\Users\MAHESH\Desktop\DataTpesExamples\DataTpesExamples\bin\Debug\DataTpesExamples.exe.config
+C:\Users\MAHESH\Desktop\DataTpesExamples\DataTpesExamples\obj\Debug\DataTpesExamples.csprojResolveAssemblyReference.cache
+C:\Users\MAHESH\Desktop\DataTpesExamples\DataTpesExamples\bin\Debug\DataTpesExamples.exe
+C:\Users\MAHESH\Desktop\DataTpesExamples\DataTpesExamples\bin\Debug\DataTpesExamples.pdb
+C:\Users\MAHESH\Desktop\DataTpesExamples\DataTpesExamples\obj\Debug\DataTpesExamples.exe
+C:\Users\MAHESH\Desktop\DataTpesExamples\DataTpesExamples\obj\Debug\DataTpesExamples.pdb
